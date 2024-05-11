@@ -1,12 +1,8 @@
 body {
     font-family: 'poppins', sans-serif;
-    background-image: url('WhatsApp\ Image\ 2024-05-06\ at\ 14.17.22.jpeg');
+    background-image: url('ivan-samudra-BqRXUfx21cI-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-span {
-    color: #5a3737;
 }
 
 .navbar {
@@ -21,15 +17,15 @@ span {
 }
 
 img {
-    width: 54%;
-    height: 54%;
+    width: 60%;
+    height: 60%;
     padding-left: 40px;
   }
 
 .navbar-nav a:hover {
     font-size: 21px;
     margin: 0;
-    color: #ffffff;
+    color: #ff0000;
     transition: 0.1s linear ;
 }
 
@@ -97,7 +93,7 @@ img {
   
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
-    background-color: #5a3737;
+    background-color: #ffffff;
 }
   
 /* Show the dropdown menu on hover */

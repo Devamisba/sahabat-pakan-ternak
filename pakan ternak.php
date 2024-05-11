@@ -17,27 +17,27 @@
                 <div class="dropdown">
                     <button class="dropbtn">Produk</button>
                     <div class="dropdown-content">
-                      <a href="pakan ayam.html">Pakan Ayam</a>
-                      <a href="pakan bebek.html">Pakan Bebek</a>
-                      <a href="pakan sapi.html">Pakan Sapi</a>
-                      <a href="pakan babi.html">Pakan Babi</a>
-                    </div>
-                  </div>
-                <a href="contact us.html">Kontak Kami</a>
-                <a href="profil saya.html">Profil</a>
-            </div>
-            
-            <ul style="list-style: none;">
-                <li><button class="login-button" href="#">Login</button></li>
-            </ul>
+                     <a href="pakan ayam.php">Pakan Ayam</a>
+                     <a href="pakan bebek.php">Pakan Bebek</a>
+                     <a href="pakan sapi.php">Pakan Sapi</a>
+                     <a href="pakan babi.php">Pakan Babi</a>
+                </div>
+              </div>
+            <a href="contact us.php">Kontak Kami</a>
+            <a href="profil saya.php">Profil</a>
+        </div>
+        
+        <ul style="list-style: none;">
+          <a href="login.php"><li><button class="login-button">Login</button></li></a>
+      </ul>
             
             
         </nav>
         <!--navbar end-->
     
         <div class="tengah">
-            <h1>Selamat Datang Di Website Saya</h1>
-            <p>Selamat Berbelanja dan Pilih Lah Pakan Sesuai Kebutuhan </p>
+            <h1>Selamat Datang Di Website Pakan Ternak</h1>
+            <p>Selamat Berbelanja dan Pilih Lah Pakan Sesuai Kebutuhan! </p>
         <div>
 
 </body>

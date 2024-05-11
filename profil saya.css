@@ -1,36 +1,31 @@
 body {
     font-family: 'poppins', sans-serif;
-    background-image: url('#');
+    background-image: url('ivan-samudra-BqRXUfx21cI-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    color: #ffffff;
 }
 
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.9rem ;
-    background-color:#469b2c7e;
     position: fixed;
     top:0;
     left: 0;
     right: 0;
+    padding-right: 10px;
 }
 
-.navbar .navbar-logo {
-    font-size: 30px;
-    font-weight: 700;
-    color: #000000;
-    font-style: italic;
-    text-decoration: none;
-    display: flex;
-}
+img {
+    width: 60%;
+    height: 60%;
+    padding-left: 40px;
+  }
 
 .navbar-nav a:hover {
-    font-size: 20px;
+    font-size: 21px;
     margin: 0;
-    color: #ffffff;
+    color: #ff0000;
     transition: 0.1s linear ;
 }
 
@@ -43,7 +38,7 @@ body {
 
 .navbar-nav {
     display: flex;
-    width: 700px;
+    width: 10000px;
     justify-content: space-around;
     padding-left: 150px;
     
@@ -98,7 +93,7 @@ body {
   
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
-    background-color: #5a3737;
+    background-color: #ffffff;
 }
   
 /* Show the dropdown menu on hover */
@@ -110,3 +105,32 @@ body {
   .dropdown:hover .dropbtn {
     background-color: white;
 }
+  
+  .container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 100px;
+  }
+  
+  .biodata-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .biodata-table th, .biodata-table td {
+    border: 8px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  .biodata-table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
+  
+  .label {
+    width: 30%;
+  }
+  

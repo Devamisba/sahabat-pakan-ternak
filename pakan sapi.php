@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>pakan bebek</title>
+    <title>pakan sapi</title>
     <link rel="stylesheet" href="pakan ayam.css">
 </head>
 <body>
@@ -16,19 +16,19 @@
             <div class="dropdown">
                 <button class="dropbtn">Produk</button>
                 <div class="dropdown-content">
-                  <a href="pakan ayam.html">Pakan Ayam</a>
-                  <a href="pakan bebek.html">Pakan Bebek</a>
-                  <a href="pakan sapi.html">Pakan Sapi</a>
-                  <a href="pakan babi.html">Pakan Babi</a>
+                  <a href="pakan ayam.php">Pakan Ayam</a>
+                  <a href="pakan bebek.php">Pakan Bebek</a>
+                  <a href="pakan sapi.php">Pakan Sapi</a>
+                  <a href="pakan babi.php">Pakan Babi</a>
                 </div>
               </div>
-            <a href="contact us.html">Kontak Kami</a>
-            <a href="profil saya.html">Profil</a>
+            <a href="contact us.php">Kontak Kami</a>
+            <a href="profil saya.php">Profil</a>
         </div>
         
         <ul style="list-style: none;">
-            <li><button class="login-button" href="#">Login</button></li>
-        </ul>
+          <a href="login.php"><li><button class="login-button">Login</button></li></a>
+      </ul>
         
         
     </nav>

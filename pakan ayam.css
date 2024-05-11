@@ -1,13 +1,8 @@
 body {
     font-family: 'poppins', sans-serif;
-    background-image: url('WhatsApp\ Image\ 2024-05-06\ at\ 14.17.22.jpeg');
+    background-image: url('ivan-samudra-BqRXUfx21cI-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    color: #ffffff;
-}
-
-span {
-    color: #5e3232;
 }
 
 .navbar {
@@ -22,15 +17,15 @@ span {
 }
 
 img {
-    width: 54%;
-    height: 54%;
+    width: 61%;
+    height: 61%;
     padding-left: 40px;
-  }
+}
 
 .navbar-nav a:hover {
     font-size: 21px;
     margin: 0;
-    color: #ffffff;
+    color: #ff0000;
     transition: 0.1s linear ;
 }
 
@@ -98,7 +93,7 @@ img {
   
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
-    background-color: #5a3737;
+    background-color: #ffffff;
 }
   
 /* Show the dropdown menu on hover */
@@ -111,42 +106,15 @@ img {
     background-color: white;
 }
 
-/*content*/
-
-.container {
-    max-width: 1000px;
-    margin: 0 auto;
-  }
-  
-  h1 {
-    text-align: center;
-    font-size: 24px;
-    margin-bottom: 20px;
-  }
-  
-  main {
-    padding: 20px 0;
-  }
-  
-  section {
-    margin-bottom: 20px;
-  }
-  
-  h2 {
-    font-size: 30px;
-    margin-bottom: 10px;
-  }
-
-div.product-item img {
-    max-width: 200px;
-    margin-bottom: 1em;
-    display: flex;
-}
-
 div.product-list {
-    list-style: none;
-    padding: 0;
     display: flex;
     justify-content: space-around;
-    margin-top: 2em;
+}
+
+div.product-item{
+    margin-top: 5em;
+}
+
+section.product {
+    padding-top: 6em;   
 }

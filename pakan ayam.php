@@ -16,19 +16,19 @@
             <div class="dropdown">
                 <button class="dropbtn">Produk</button>
                 <div class="dropdown-content">
-                  <a href="pakan ayam.html">Pakan Ayam</a>
-                  <a href="pakan bebek.html">Pakan Bebek</a>
-                  <a href="pakan sapi.html">Pakan Sapi</a>
-                  <a href="pakan babi.html">Pakan Babi</a>
+                  <a href="pakan ayam.php">Pakan Ayam</a>
+                  <a href="pakan bebek.php">Pakan Bebek</a>
+                  <a href="pakan sapi.php">Pakan Sapi</a>
+                  <a href="pakan babi.php">Pakan Babi</a>
                 </div>
               </div>
-            <a href="contact us.html">Kontak Kami</a>
-            <a href="profil saya.html">Profil</a>
+            <a href="contact us.php">Kontak Kami</a>
+            <a href="profil saya.php">Profil</a>
         </div>
         
         <ul style="list-style: none;">
-            <li><button class="login-button" href="#">Login</button></li>
-        </ul>
+          <a href="login.php"><li><button class="login-button">Login</button></li></a>
+      </ul>
         
         
     </nav>
@@ -48,19 +48,19 @@
 
             <div class="product-list">
               <div class="product-item">
-                <img src="farms-choi.jpg" alt="FARMS CHOI">
+                <img src="WhatsApp Image 2024-05-09 at 20.01.05.jpeg" alt="FARMS CHOI">
                 <h3>SUPER++</h3>
                 <p>Pakan Penggemukan Ayam Pedaging</p>
                 <a href="#" class="detail">Detail</a>
               </div>
               <div class="product-item">
-                <img src="farms-chick.jpg" alt="FARMS CHICK">
+                <img src="WhatsApp Image 2024-05-09 at 20.01.05.jpeg" alt="FARMS CHICK">
                 <h3>SUPER+</h3>
                 <p>Pakan Ayam Untuk Menghasilkan Telur Yang Sempurna</p>
                 <a href="#" class="detail">Detail</a>
               </div>
               <div class="product-item">
-                <img src="farms-bro.jpg" alt="FARMS BRO">
+                <img src="WhatsApp Image 2024-05-09 at 20.01.05.jpeg" alt="FARMS BRO">
                 <h3>SUPER</h3>
                 <p>Pakan Anak Ayam</p>
                 <a href="#" class="detail">Detail</a>
