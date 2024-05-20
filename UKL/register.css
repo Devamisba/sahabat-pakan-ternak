@@ -1,0 +1,15 @@
+body {
+    font-family: 'poppins', sans-serif;
+    background-image: url('tom-winckels-I7oLRdM9YIw-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button {
+    color: rgb(0, 0, 0);
+    border-color: #008a5c;
+}
+
+.keregbaru h3 {
+    color: #fefefe;
+}
