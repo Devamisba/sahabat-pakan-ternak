@@ -58,6 +58,25 @@ header("location:login.php?pesan=gagal");
     color: rgb(0, 0, 0);
     border-color: #008a5c;
 }
+
+table {
+    background: transparent;
+    backdrop-filter: blur(10px);
+    border: 1px solid gray;
+    border-radius: 13px;
+}
+
+h3 {
+    color: white;
+}
+
+.loginn {
+    padding-top: 3em;
+}
+
+
+
+
     </style>
 </head>
 
@@ -65,7 +84,7 @@ header("location:login.php?pesan=gagal");
 
 <body>
    
-<div align="center">
+<div align="center" class="loginn">
          <table>
             
          <h1>LOGIN</h1>
@@ -83,7 +102,8 @@ header("location:login.php?pesan=gagal");
                 <tr>
                     <td><button class="submit" name="login">Login</button></td>
                 </tr>
-    </table>
+                </table>
+
                 <div align="center" class="keregbaru">
                     <h3>Tidak ada akun? </h3>
                     <button><a href="register.php">Register</a></button>
@@ -91,6 +111,8 @@ header("location:login.php?pesan=gagal");
 
 
                 </form>
+
+                </div>
     
 </body>
 </html>

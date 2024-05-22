@@ -10,10 +10,10 @@
 
         <!-- navbar start -->
         <nav class="navbar">
-            <a href="index.php" class="navbar-logo"><img src="sahabat-high-resolution-logo-black-transparent.png" alt=""></a>
+            <a href="admin.php" class="navbar-logo"><img src="sahabat-high-resolution-logo-black-transparent.png" alt=""></a>
     
             <div class="navbar-nav">
-                <a href="tentang kami.php">Tentang SPT</a>
+                <a href="tabel user.php">Tabel</a>
                 <a href="contact us.php">Kontak Kami</a>
         </div>
         

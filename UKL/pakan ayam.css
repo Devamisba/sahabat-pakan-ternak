@@ -118,3 +118,8 @@ div.product-item{
 section.product {
     padding-top: 6em;   
 }
+
+button {
+    color: rgb(0, 0, 0);
+    border-color: #008a5c;
+}

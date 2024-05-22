@@ -26,6 +26,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Register</title>
     <link rel="stylesheet" href="register.css">
+    <style>
+table {
+    background: transparent;
+    backdrop-filter: blur(10px);
+    border: 1px solid gray;
+    border-radius: 13px;
+}
+
+.container {
+    padding-top: 3em;
+}
+    </style>
+
+    
 </head>
 <body>
     
@@ -69,7 +83,7 @@
 
             </table>
             <div class="keregbaru">
-                    <h3>Sudah ada akun? </h3>
+                    <h3 class="akun">Sudah ada akun? </h3>
                     <button><a href="login.php">Login</a></button>
                 </div>
 

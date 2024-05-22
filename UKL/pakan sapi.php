@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>pakan sapi</title>
     <link rel="stylesheet" href="pakan ayam.css">
+    <style>
+      button {
+    color: rgb(0, 0, 0);
+    border-color: #008a5c;
+}
+    </style>
 </head>
 <body>
     <!-- navbar start -->
@@ -51,19 +57,22 @@
                 <img src="farms-choi.jpg" alt="FARMS CHOI">
                 <h3>SUPER++</h3>
                 <p>Pakan Penggemukan Ayam Pedaging</p>
-                <a href="#" class="detail">Detail</a>
+                <button><a href="#" class="detail">Detail</a></button>
+                <button><a href="login.php" class="detail">Beli</a></button>
               </div>
               <div class="product-item">
                 <img src="farms-chick.jpg" alt="FARMS CHICK">
                 <h3>SUPER+</h3>
                 <p>Pakan Ayam Untuk Menghasilkan Telur Yang Sempurna</p>
-                <a href="#" class="detail">Detail</a>
+                <button><a href="#" class="detail">Detail</a></button>
+                <button><a href="login.php" class="detail">Beli</a></button>
               </div>
               <div class="product-item">
                 <img src="farms-bro.jpg" alt="FARMS BRO">
                 <h3>SUPER</h3>
                 <p>Pakan Anak Ayam</p>
-                <a href="#" class="detail">Detail</a>
+                <button><a href="#" class="detail">Detail</a></button>
+                <button><a href="login.php" class="detail">Beli</a></button>
               </div>
             </div>
           </div>
